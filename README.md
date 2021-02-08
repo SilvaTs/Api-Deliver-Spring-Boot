@@ -55,25 +55,7 @@ GET  https://api-spring-boot-daniel.herokuapp.com/orders
     } 
        
 ]
-    
-<hr/>
-
-### Listar os produtos
-
-GET https://api-spring-boot-daniel.herokuapp.com/products
-    
-#### exemplo de response: 
-
-   [
-    {
-        "id": 6,
-        "name": "Macarrão Espaguete",
-        "price": 35.9,
-        "description": "Macarrão fresco espaguete com molho especial e tempero da casa.",
-        "imageUrl": "https://raw.githubusercontent.com/devsuperior/sds2/master/assets/macarrao_espaguete.jpg"
-    }
    
-]
     
 <hr/> 
 
