@@ -9,7 +9,7 @@ utilizando os endpoints POST,PUT e GET,e Implantamos o projeto no Heroku.
 
 <hr/>
 
-### SEGUE OS ENDPOINTS DA API :
+### SEGUE OS ENDPOINTS PARA CONSUMIR A API :
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -44,8 +44,8 @@ PUT https://api-spring-boot-daniel.herokuapp.com/orders/3/delivered
 <hr/>
  
 ## Tecnologias usadas na API:
- - Spring Boot: No Desenvolvimento da api.
- - IDE: Eclipse
- - Postgres: Banco de dados
- - Host: Heroku
- - Java: versão 11
+ - Spring Boot : No Desenvolvimento da api.
+ - IDE : Eclipse
+ - Postgres : Banco de dados
+ - Host : Heroku
+ - Java : versão 11
