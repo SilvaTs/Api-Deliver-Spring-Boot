@@ -4,7 +4,7 @@
 
 Semana DevSuperior 2.0
 
-Nesse projeto foi aplicado todos conceitos para desenvolver uma api rest com spring boot,
+Nesse projeto foi utilizado todos conceitos para desenvolver uma api rest com spring boot,
 utilizando os endpoints POST,PUT e GET,e Implantamos o projeto no Heroku.
 
 <hr/>
