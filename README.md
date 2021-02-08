@@ -15,7 +15,7 @@ POST https://api-spring-boot-daniel.herokuapp.com/orders
 
 #### exemplo de response: 
 
-    {
+  {
         "adress": "Avenida Maracana, 1500",
         "latitude": -23.56168,
         "longitude": -46.656139,      
@@ -25,8 +25,9 @@ POST https://api-spring-boot-daniel.herokuapp.com/orders
           },
           {
               "id": 5
-          }         
-     }
+          }
+        ] 
+}
 
     
 <hr/>
