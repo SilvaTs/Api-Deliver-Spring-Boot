@@ -22,10 +22,7 @@ POST https://api-spring-boot-daniel.herokuapp.com/orders
         "products": [
           {
               "id": 2
-          },
-          {
-              "id": 5
-          }
+          }       
         ] 
 }
 
@@ -53,14 +50,7 @@ GET  https://api-spring-boot-daniel.herokuapp.com/orders
                 "price": 59.95,
                 "description": "Risoto Funghi feito com ingredientes finos e o toque especial do chef.",
                 "imageUrl": "https://raw.githubusercontent.com/devsuperior/sds2/master/assets/risoto_funghi.jpg"
-            },
-            {
-                "id": 7,
-                "name": "Macarrão Fusili",
-                "price": 38.0,
-                "description": "Macarrão fusili com toque do chef e especiarias.",
-                "imageUrl": "https://raw.githubusercontent.com/devsuperior/sds2/master/assets/macarrao_fusili.jpg"
-            }
+            }         
         ]
     } 
        
@@ -81,20 +71,6 @@ GET https://api-spring-boot-daniel.herokuapp.com/products
         "price": 35.9,
         "description": "Macarrão fresco espaguete com molho especial e tempero da casa.",
         "imageUrl": "https://raw.githubusercontent.com/devsuperior/sds2/master/assets/macarrao_espaguete.jpg"
-    },
-    {
-        "id": 7,
-        "name": "Macarrão Fusili",
-        "price": 38.0,
-        "description": "Macarrão fusili com toque do chef e especiarias.",
-        "imageUrl": "https://raw.githubusercontent.com/devsuperior/sds2/master/assets/macarrao_fusili.jpg"
-    },
-    {
-        "id": 8,
-        "name": "Macarrão Penne",
-        "price": 37.9,
-        "description": "Macarrão penne fresco ao dente com tempero especial.",
-        "imageUrl": "https://raw.githubusercontent.com/devsuperior/sds2/master/assets/macarrao_penne.jpg"
     }
    
 ]
@@ -122,13 +98,7 @@ PUT https://api-spring-boot-daniel.herokuapp.com/orders/3/delivered
             "description": "Pizza Portuguesa com molho especial, mussarela, presunto, ovos e especiarias.",
             "imageUrl": "https://raw.githubusercontent.com/devsuperior/sds2/master/assets/pizza_portuguesa.jpg"
         },
-        {
-            "id": 4,
-            "name": "Risoto de Carne",
-            "price": 52.0,
-            "description": "Risoto de carne com especiarias e um delicioso molho de acompanhamento.",
-            "imageUrl": "https://raw.githubusercontent.com/devsuperior/sds2/master/assets/risoto_carne.jpg"
-        }
+        
     ]
 }
     
