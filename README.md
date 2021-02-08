@@ -9,12 +9,12 @@ utilizando os endpoints POST,PUT e GET,e Implantamos o projeto no Heroku.
 
 <hr/>
 
-### SEGUE OS ENDPOINTS DA API:
+### SEGUE OS ENDPOINTS DA API :
 
-<hr/>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Cadastrar um pedido
-<hr/>
+
 
 POST https://api-spring-boot-daniel.herokuapp.com/orders
 
