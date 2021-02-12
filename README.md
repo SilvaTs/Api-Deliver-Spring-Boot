@@ -37,7 +37,7 @@ GET  https://api-spring-boot-daniel.herokuapp.com/orders
 
 GET  https://api-spring-boot-daniel.herokuapp.com/products
    
-                  exemplo de response, retornando como resposta os produtos cadastrados :                                                                                                                                                                                                   |
+ exemplo de response, retornando como resposta os produtos cadastrados :                                                                                                                                                                                                   |
 :-----------------------------------------------------------------------------------------------------------------:|
 <img src="https://user-images.githubusercontent.com/47439833/107724747-fd0aea80-6cba-11eb-847a-b1c870cfd1c8.png"/> 
     
@@ -47,11 +47,11 @@ GET  https://api-spring-boot-daniel.herokuapp.com/products
 
 PUT https://api-spring-boot-daniel.herokuapp.com/orders/3/delivered
     
-                  exemplo de response, retornando como resposta o pedido atualizado :                                                                                                                                                                                                  |
+ exemplo de response, retornando como resposta o pedido atualizado :                                               |                                                                                                                                                  |
 :-----------------------------------------------------------------------------------------------------------------:|
-<img src="https://user-images.githubusercontent.com/47439833/107724798-157b0500-6cbb-11eb-9a67-f2d2cd3b20af.png"/> 
+<img src="https://user-images.githubusercontent.com/47439833/107724798-157b0500-6cbb-11eb-9a67-f2d2cd3b20af.png"/> |
     
-<hr/>
+---
  
 ## 🚀 Tecnologias e Ferramentas utilizadas
  - Spring Boot : No Desenvolvimento da api.
